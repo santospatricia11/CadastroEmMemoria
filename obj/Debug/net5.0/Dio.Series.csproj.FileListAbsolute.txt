@@ -1,0 +1,5 @@
+C:\Users\patri\git\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\patri\git\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\git\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\patri\git\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\patri\git\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
